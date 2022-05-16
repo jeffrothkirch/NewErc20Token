@@ -1,0 +1,20 @@
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+node_modules
+bin_output
+logs
+
+## Build generated
+build/
